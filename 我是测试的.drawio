@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-24T16:30:00.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="zK9z0jEy-5fI3qRyc2ec" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T00:58:13.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="HQINWWbnUZwJ3VC6XX31" version="20.7.4" type="github">
   <diagram id="1aEEClQ9U-ESjYVgXYmn" name="第 1 页">
-    <mxGraphModel dx="3375" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1487" dy="1547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_scqceFtBJjCkE2vxEVa-1" value="resign&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="4" y="64" width="120" height="56" as="geometry" />
+          <mxGeometry x="190" y="-550" width="120" height="56" as="geometry" />
         </mxCell>
         <mxCell id="wWD5kf36xDMMppYPNfPV-2" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aQ2xhZKoIx8xROYaaDXK-4" target="wWD5kf36xDMMppYPNfPV-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aQ2xhZKoIx8xROYaaDXK-6" value="下一步计划" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="870" y="160" width="138" height="49" as="geometry" />
+          <mxGeometry x="940" y="-90" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wWD5kf36xDMMppYPNfPV-1" value="你为什么离职？" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-510" y="180" width="120" height="48" as="geometry" />
@@ -112,7 +112,7 @@
         <mxCell id="wWD5kf36xDMMppYPNfPV-23" value="个人" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="170" y="520" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="1VIdMTbG1cdYmiwLCOvJ-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1VIdMTbG1cdYmiwLCOvJ-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="650" y="306" width="1298" height="464" as="geometry" />
         </mxCell>
         <mxCell id="wZYj10Ktc-ex54CvqPo8-1" value="玻璃切子" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1VIdMTbG1cdYmiwLCOvJ-1" vertex="1">
@@ -196,8 +196,14 @@
         <mxCell id="wZYj10Ktc-ex54CvqPo8-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" parent="1VIdMTbG1cdYmiwLCOvJ-1" source="wZYj10Ktc-ex54CvqPo8-48" target="wZYj10Ktc-ex54CvqPo8-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="E4iZeOSxulBhDwtpqHXv-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wZYj10Ktc-ex54CvqPo8-3" target="E4iZeOSxulBhDwtpqHXv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wZYj10Ktc-ex54CvqPo8-3" value="收入保障" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="30" width="138" height="49" as="geometry" />
+          <mxGeometry x="1510" y="-230" width="138" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="E4iZeOSxulBhDwtpqHXv-1" value="市场销售" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="-100" width="138" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
